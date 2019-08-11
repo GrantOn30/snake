@@ -1,0 +1,10 @@
+E:\Programming Anton\Git Projects\snake\snake\snake\bin\Debug\netcoreapp1.1\snake.deps.json
+E:\Programming Anton\Git Projects\snake\snake\snake\bin\Debug\netcoreapp1.1\snake.runtimeconfig.json
+E:\Programming Anton\Git Projects\snake\snake\snake\bin\Debug\netcoreapp1.1\snake.runtimeconfig.dev.json
+E:\Programming Anton\Git Projects\snake\snake\snake\bin\Debug\netcoreapp1.1\snake.dll
+E:\Programming Anton\Git Projects\snake\snake\snake\bin\Debug\netcoreapp1.1\snake.pdb
+E:\Programming Anton\Git Projects\snake\snake\snake\obj\Debug\netcoreapp1.1\snake.csprojResolveAssemblyReference.cache
+E:\Programming Anton\Git Projects\snake\snake\snake\obj\Debug\netcoreapp1.1\snake.csproj.CoreCompileInputs.cache
+E:\Programming Anton\Git Projects\snake\snake\snake\obj\Debug\netcoreapp1.1\snake.AssemblyInfo.cs
+E:\Programming Anton\Git Projects\snake\snake\snake\obj\Debug\netcoreapp1.1\snake.dll
+E:\Programming Anton\Git Projects\snake\snake\snake\obj\Debug\netcoreapp1.1\snake.pdb
